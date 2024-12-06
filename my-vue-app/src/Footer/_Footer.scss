@@ -1,0 +1,22 @@
+@import "../_base";
+
+footer {
+  font-size: $footer-font-size;
+  text-align: center;
+  border-top: 2px solid $primary-color;
+
+  .reseaux a {
+    font-size: $reseaux-font-size;
+    color: $primary-color;
+    text-decoration: none;
+  }
+
+  .copyright {
+    color: black;
+    text-decoration: underline;
+  }
+
+  img {
+    width: $img-width;
+  }
+}

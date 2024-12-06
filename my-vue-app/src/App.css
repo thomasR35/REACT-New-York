@@ -1,0 +1,308 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #444;
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "courgetteregular";
+  src: url("../fonts/courgette-regular-webfont.woff2") format("woff2"), url("../fonts/courgette-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/source-sans-pro-v21-latin-400.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-400.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-400.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-normal-400.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-400.svg#SourceSansPro") format("svg");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/source-sans-pro-v21-latin-400.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-400.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-400.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-italic-400.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-400.svg#SourceSansPro") format("svg");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/source-sans-pro-v21-latin-600.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-600.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-600.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-normal-600.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-600.svg#SourceSansPro") format("svg");
+}
+.container {
+  width: 980px;
+  margin: auto;
+}
+
+h1,
+h2,
+h3,
+nav,
+blockquote {
+  font-family: "courgetteregular";
+}
+
+.clear {
+  clear: both;
+}
+
+footer {
+  font-size: 1.4rem;
+  text-align: center;
+  border-top: 2px solid #003884;
+}
+footer .reseaux a {
+  font-size: 3rem;
+  color: #003884;
+  text-decoration: none;
+}
+footer .copyright {
+  color: black;
+  text-decoration: underline;
+}
+footer img {
+  width: 50px;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #444;
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "courgetteregular";
+  src: url("../fonts/courgette-regular-webfont.woff2") format("woff2"), url("../fonts/courgette-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/source-sans-pro-v21-latin-400.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-400.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-400.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-normal-400.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-400.svg#SourceSansPro") format("svg");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/source-sans-pro-v21-latin-400.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-400.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-400.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-italic-400.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-400.svg#SourceSansPro") format("svg");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/source-sans-pro-v21-latin-600.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-600.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-600.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-normal-600.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-600.svg#SourceSansPro") format("svg");
+}
+.container {
+  width: 980px;
+  margin: auto;
+}
+
+h1,
+h2,
+h3,
+nav,
+blockquote {
+  font-family: "courgetteregular";
+}
+
+.clear {
+  clear: both;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-size: 4rem;
+  color: #003884;
+}
+
+nav {
+  color: #003884;
+  font-weight: bold;
+  text-align: left;
+}
+nav a {
+  color: #003884;
+  font-size: 2rem;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #444;
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "courgetteregular";
+  src: url("../fonts/courgette-regular-webfont.woff2") format("woff2"), url("../fonts/courgette-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/source-sans-pro-v21-latin-400.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-400.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-400.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-normal-400.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-400.svg#SourceSansPro") format("svg");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/source-sans-pro-v21-latin-400.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-400.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-400.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-italic-400.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-400.svg#SourceSansPro") format("svg");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/source-sans-pro-v21-latin-600.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-600.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-600.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-normal-600.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-600.svg#SourceSansPro") format("svg");
+}
+.container {
+  width: 980px;
+  margin: auto;
+}
+
+h1,
+h2,
+h3,
+nav,
+blockquote {
+  font-family: "courgetteregular";
+}
+
+.clear {
+  clear: both;
+}
+
+blockquote {
+  text-align: center;
+  color: #003884;
+  background-color: #d7e1ef;
+}
+blockquote p {
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+cite {
+  font-style: normal;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 3.5rem;
+  color: #4f89b9;
+  text-align: center;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 2.5rem;
+  color: #003884;
+  text-align: center;
+}
+
+.droite {
+  float: right;
+  margin-left: 1rem;
+}
+
+.gauche {
+  float: left;
+  margin-right: 1rem;
+}
+
+strong,
+em {
+  color: #003884;
+}
+
+.italique {
+  font-style: italic;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #444;
+  font-size: 1.8rem;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  font-family: "courgetteregular";
+  src: url("../fonts/courgette-regular-webfont.woff2") format("woff2"), url("../fonts/courgette-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/source-sans-pro-v21-latin-400.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-400.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-400.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-normal-400.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-400.svg#SourceSansPro") format("svg");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/source-sans-pro-v21-latin-400.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-400.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-400.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-italic-400.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-400.svg#SourceSansPro") format("svg");
+}
+@font-face {
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/source-sans-pro-v21-latin-600.eot") format("embedded-opentype"), url("../fonts/source-sans-pro-v21-latin-600.woff2") format("woff2"), url("../fonts/source-sans-pro-v21-latin-600.woff") format("woff"), url("../fonts/source-sans-pro-v21-latin-normal-600.ttf") format("truetype"), url("../fonts/source-sans-pro-v21-latin-600.svg#SourceSansPro") format("svg");
+}
+.container {
+  width: 980px;
+  margin: auto;
+}
+
+h1,
+h2,
+h3,
+nav,
+blockquote {
+  font-family: "courgetteregular";
+}
+
+.clear {
+  clear: both;
+}/*# sourceMappingURL=App.css.map */

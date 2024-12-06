@@ -1,13 +1,24 @@
 import "./_Footer.scss";
-
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faFacebookSquare,
+  faPinterestSquare,
+  faInstagramSquare,
+} from "@fortawesome/free-brands-svg-icons";
 function Footer() {
   return (
     <footer className="footer clear">
       <aside className="social-links">
         <h3>Follow us on social media</h3>
-        <a href="" className="fa-brands fa-facebook-square" />
-        <a href="" className="fa-brands fa-pinterest-square" />
-        <a href="" className="fa-brands fa-instagram-square" />
+        <a href="https://facebook.com">
+          <FontAwesomeIcon icon={faFacebookSquare} />
+        </a>
+        <a href="https://facebook.com">
+          <FontAwesomeIcon icon={faPinterestSquare} />
+        </a>
+        <a href="https://facebook.com">
+          <FontAwesomeIcon icon={faInstagramSquare} />
+        </a>
       </aside>
       <p>
         <img src="img/logo-3wa.png" alt="3WA logo" />
